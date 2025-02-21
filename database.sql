@@ -1,0 +1,1 @@
+INSERT INTO `payment_methods` (`id`, `method_name`, `method_get`, `method_min`, `method_max`, `method_type`, `method_extras`, `method_line`, `nouse`) VALUES ('77', 'TZSMM Pay', 'tzsmmpay', '0.1', '1000', '2', '{\"method_type\":\"2\",\"name\":\"Bkash | Nagad | Rocket | Upai | Cellfin | BD\",\"min\":\"0.1\",\"max\":\"1000\",\"api_key\":\"\",\"exchange_rate\":\"\"}', '1', '2')
